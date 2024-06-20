@@ -1,4 +1,4 @@
-# Project Title: *Price Extractor*
+# Project Title: *Price-Extractor*
 
 ## Description:
 This project contains a Python script that extracts text content from web pages specified by a list of URLs. It utilizes BeautifulSoup and requests libraries for web scraping and parsing HTML content.
