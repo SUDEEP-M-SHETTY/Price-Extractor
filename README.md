@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Inspired by online tutorials and community forums on web scraping with Python.
 Thanks to BeautifulSoup and requests library developers for their contributions.
 
-
+<div align="center">© 2024 SUDEEP M SHETTY</div>
